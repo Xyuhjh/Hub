@@ -1,1 +1,4 @@
 # Hub
++  private get isOpen() {
++    {
++       {
